@@ -3,3 +3,4 @@ vendor/*
 example/test.php
 example/ge.php
 example/wc.php
+.idea
